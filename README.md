@@ -1,8 +1,6 @@
 # Практическое задание №1
 
-## Программирование корпоративных систем.
+### Копытина Светлана Васильевна ЭФБО-05-22
+![image](https://github.com/user-attachments/assets/4a2e6964-78f6-413b-b79f-010158e35257)
 
-### Шмелев Артём павлович ЭФБО-05-22
-
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/2792d896-4818-43c1-a73f-ddb72dff6531">
 
